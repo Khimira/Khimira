@@ -60,7 +60,7 @@ End-to-end workflow that monitors job boards, analyzes technical compatibility u
   <a href="https://www.linkedin.com/in/lucas-carvalho-khimira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:SEU-EMAIL-REAL@gmail.com" target="_blank">
+  <a href="mailto:khimira.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
   </a>
 </div>
