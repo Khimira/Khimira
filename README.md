@@ -40,7 +40,7 @@ Information Systems student at **IFBA** bridging the gap between Security, Infra
 An intelligent trap for hackers utilizing **Logstash** and **n8n** to capture intrusions and **GenAI (Gemini)** to analyze attack intent in real-time.
 * **Tech:** Linux, Docker, ELK Stack, n8n, AI.
 
-#### 🤖 [Job Monitor 24/7](https://github.com/Khimira/Monitor-de-vagas-de-emprego-24-7)
+#### 🤖 [Career-Flow AI](https://github.com/Khimira/Career-Flow-AI)
 > *Career Automation.*
 End-to-end workflow that monitors job boards, analyzes technical compatibility using AI, and generates personalized cover letters.
 * **Tech:** Python, RSS, LLMs.
