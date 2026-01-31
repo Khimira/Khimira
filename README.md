@@ -23,7 +23,6 @@ Information Systems student at **IFBA** bridging the gap between Security, Infra
 
 ![Security](https://img.shields.io/badge/Cybersecurity-CC2927?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
 **Automation & Scripting**
