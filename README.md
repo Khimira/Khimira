@@ -46,15 +46,6 @@ End-to-end workflow that monitors job boards, analyzes technical compatibility u
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khimira&show_icons=true&theme=dark&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khimira&layout=compact&theme=dark&hide_border=true" height="180em" />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/khimira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
